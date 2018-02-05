@@ -8,5 +8,5 @@ and browse to
 install [node inspector](https://github.com/node-inspector/node-inspector) by executing command `npm install -g node-inspector` and to debug execute
 `npm debug` to start debuging.
 
-### to Execute Unit Tests
+### To Execute Unit Tests
 For testing, please enter this command in you terminal  `npm test`
