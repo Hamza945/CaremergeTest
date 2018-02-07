@@ -1,4 +1,9 @@
 # CaremergeTest Solution
+
+### Use Node version for async
+Please use the latest version of Node or above from 7.1 
+Type in your terminal to install latest node version `nvm use node`
+
 ### To Run Execute
 Please enter this command in you terminal `npm start`
 and browse to 
